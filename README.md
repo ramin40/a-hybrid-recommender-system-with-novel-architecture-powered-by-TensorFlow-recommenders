@@ -16,10 +16,10 @@ a dataset must consist of three parts:
 - users reactions to items e.g. rate, comment, like etc.
 ## how to use 
 - `pip install -r requirements.txt`
-- change the _data folder_ path in the _importing_data_and_libraries_ code file to your local path.
+- change the _data folder_ path in the **importing_data_and_libraries** code file to your local path.
 - change the folder path for saving trained models in **trainer** code file to your local path.
-- run ***trainer*** file to train all 4 models.
-- run ***deployer file*** to run recommender system in inference mode.
+- run **trainer** file to train all 4 models.
+- run **deployer file** to run recommender system in inference mode.
 ## considerations
 all rights are reserved for this architecture.
 this repository was created ***just for education purposes*** and for the lack of code and resources for recommender systems and tensorflow recommender library. 
