@@ -1,4 +1,7 @@
 # a-hybrid-recommender-system-with-novel-architecture-powered-by-TensorFlow-recommenders
+![image](https://user-images.githubusercontent.com/74808396/183279783-a331db09-4e5f-4027-8318-7dba36306ca4.png)
+
+
 ## project discription
 in this project I've designed a novel architecture of a ***hybrid recommender system*** this recommender system is powered by [TensorFlow recommenders](https://www.tensorflow.org/recommenders) librerye and consists of four maine components:
 * _user-to-user model_: this model finds the most similar users to the target user.
